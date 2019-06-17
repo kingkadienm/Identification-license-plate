@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlateRecognizer</string>
+    <string name="plate_rect">车牌识别区</string>
+    <string name="dialog_default_title">Here\'s a message!</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="LOADING">Loading...</string>
+</resources>
